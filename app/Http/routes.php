@@ -12,5 +12,17 @@
 */
 
 Route::get('/', function () {
+    return view('index');
+});
+
+Route::get('/img', function () {
     return view('yuko');
+});
+
+Route::get('/check_1', function () {
+    return view('check');
+});
+
+Route::get('/check_2', function () {
+    return view('check_2');
 });
