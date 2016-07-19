@@ -318,6 +318,7 @@ sup {
 <li><a href="http://yukoneko.cc/img">lovelove</a></li>
 <li><a href="http://yukoneko.cc/check_1">检查1</a></li>
 <li><a href="http://yukoneko.cc/check_2">检查2</a></li>
+<li><a href="/site">烬酱的作业1</a></li>
 </ol>
 
 <p>待续</p>

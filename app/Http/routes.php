@@ -26,3 +26,7 @@ Route::get('/check_1', function () {
 Route::get('/check_2', function () {
     return view('check_2');
 });
+
+Route::get('/site', function() {
+    return view('site');
+});
