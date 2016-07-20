@@ -315,7 +315,7 @@ sup {
 <h2 id="toc_0">烬酱 x 喵的空间索引</h2>
 
 <ol>
-<li><a href="http://yukoneko.cc/img">lovelove</a></li>
+<li><a href="http://yukoneko.cc/yuko">lovelove</a></li>
 <li><a href="http://yukoneko.cc/check_1">检查1</a></li>
 <li><a href="http://yukoneko.cc/check_2">检查2</a></li>
 <li><a href="/site">烬酱的作业1</a></li>

@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/img', function () {
+Route::get('/yuko', function () {
     return view('yuko');
 });
 
